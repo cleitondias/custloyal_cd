@@ -1,0 +1,1 @@
+using custloyal_cdSrv as service from '../../srv/service';
